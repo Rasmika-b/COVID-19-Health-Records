@@ -17,9 +17,9 @@ Throughout this project, numerous libraries are levereged, with extensive coding
 Discussion:
 
 - Dataset: data.md
-- Division-One: div1.md
-- Division-Two: div2.md
-- Division-Three: div3.md
+- Division-One: div1.pdf
+- Division-Two: div2.pdf
+- Division-Three: div3.pdf
 
 Observations:
 
