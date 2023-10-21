@@ -1,4 +1,4 @@
-We took the resource to from : 
+We took the resource from : 
 
 https://en.wikipedia.org/wiki/Template:2019%E2%80%9320_coronavirus_pandemic_data/Mainland_China_medical_cases_chart/sandbox
 
